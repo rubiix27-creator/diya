@@ -6,7 +6,9 @@ The page is one self-contained file, `index.html`. It uses Google Fonts for type
 
 ## View it
 
-Open `index.html` in any browser.
+Live page: https://rubiix27-creator.github.io/diya/
+
+Or open `index.html` in any browser.
 
 To host it, turn on GitHub Pages: go to Settings, then Pages, choose the `main` branch and the root folder, and save.
 
